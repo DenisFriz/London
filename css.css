@@ -12,7 +12,7 @@
 }
 
 .Top {
-	background: url("Photo.jpg") no-repeat;
+	background: url("photo.jpg") no-repeat;
 	background-size: cover;
 	height: 900px;
 }
