@@ -1,4 +1,4 @@
 ## Landing page
 
-- Простой сайт [посмотрите](https://LandingPage.github.io/)
+- Простой сайт [посмотрите](https://denisfriz.github.io/LandingPage.github.io/)
 - Bootstrap 
