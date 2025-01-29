@@ -1,4 +1,7 @@
-## Landing page
+## London landing
 
-- Простой сайт [посмотрите](https://denisfriz.github.io/LandingPage.github.io/)
-- Bootstrap 
+- HTML [посмотрите](https://denisfriz.github.io/London.github.io/)
+- Bootstrap
+- SCSS
+- JS
+- Webpack
