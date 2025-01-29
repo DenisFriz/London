@@ -1,6 +1,6 @@
 ## London landing
 
-- HTML [посмотрите](https://denisfriz.github.io/London.github.io/)
+- HTML [посмотрите](https://denisfriz.github.io/London/)
 - Bootstrap
 - SCSS
 - JS
